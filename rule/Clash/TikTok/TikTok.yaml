@@ -4,9 +4,9 @@
 # UPDATED: 2026-10-16 04:51:01
 # DOMAIN: 4
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 28
+# DOMAIN-SUFFIX: 49
 # PROCESS-NAME: 1
-# TOTAL: 35
+# TOTAL: 56
 payload:
   - DOMAIN,lf16-effectcdn.byteeffecttos-g.com
   - DOMAIN,lf16-pkgcdn.pitaya-clientai.com
@@ -43,3 +43,25 @@ payload:
   - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,tiktok
   - PROCESS-NAME,com.zhiliaoapp.musically
+  # >>> shinycheng 补充
+  - DOMAIN-SUFFIX,tiktokv.eu
+  - DOMAIN-SUFFIX,tiktokw.us
+  - DOMAIN-SUFFIX,tiktokw.eu
+  - DOMAIN-SUFFIX,tiktokcdn-eu.com
+  - DOMAIN-SUFFIX,tiktokshop.com
+  - DOMAIN-SUFFIX,tiktokglobalshop.com
+  - DOMAIN-SUFFIX,tiktokrow-cdn.com
+  - DOMAIN-SUFFIX,tiktokeu-cdn.com
+  - DOMAIN-SUFFIX,byteoversea.net
+  - DOMAIN-SUFFIX,byteintl.com
+  - DOMAIN-SUFFIX,ibytedapm.com
+  - DOMAIN-SUFFIX,byteeffecttos-g.com
+  - DOMAIN-SUFFIX,pitaya-clientai.com
+  - DOMAIN-SUFFIX,ttwstatic.com
+  - DOMAIN-SUFFIX,ttlivecdn.com
+  - DOMAIN-SUFFIX,tlivecdn.com
+  - DOMAIN-SUFFIX,bytefcdn-oversea.com
+  - DOMAIN-SUFFIX,bytefcdn-ttpeu.com
+  - DOMAIN-SUFFIX,ttoversea.net
+  - DOMAIN-SUFFIX,ttoverseaus.net
+  - DOMAIN-SUFFIX,byteglb.com

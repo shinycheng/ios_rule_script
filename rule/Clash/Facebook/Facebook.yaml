@@ -3,10 +3,10 @@
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2025-06-06 09:16:55
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 544
+# DOMAIN-SUFFIX: 550
 # IP-ASN: 1
 # IP-CIDR: 23
-# TOTAL: 570
+# TOTAL: 576
 payload:
   - DOMAIN-SUFFIX,aboutfacebook.com
   - DOMAIN-SUFFIX,accessfacebookfromschool.com
@@ -578,3 +578,10 @@ payload:
   - IP-CIDR,54.235.23.242/32
   - IP-CIDR,54.93.124.31/32
   - IP-ASN,32934
+  # >>> shinycheng 补充
+  - DOMAIN-SUFFIX,fb.gg
+  - DOMAIN-SUFFIX,fb.watch
+  - DOMAIN-SUFFIX,fbpigeon.com
+  - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,atmeta.com
+  - DOMAIN-SUFFIX,llama.com
